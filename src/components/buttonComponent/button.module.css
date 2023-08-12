@@ -1,0 +1,16 @@
+.btns {
+  text-align: center;
+}
+
+.btn {
+  margin: auto 1rem;
+  border: none;
+  color: white;
+  font-weight: bold;
+  border: 3px solid black;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  width: 100px;
+  cursor: pointer;
+  font-size: 18px;
+}
